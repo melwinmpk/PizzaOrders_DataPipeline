@@ -33,3 +33,25 @@ He Approaches a Data Engineer to process and store the data for him and get the 
     Columns=> runner_id,registration_date<br>
 </li>
 </ul>    
+<p> The Answers the Tony wanted for </p>
+<ol>
+<li>How many pizzas were ordered?</li>
+<li>How many unique customer orders were made?</li>
+<li>How many successful orders were delivered by each runner?</li>
+<li>How many of each type of pizza was delivered?</li>
+<li>How many Vegetarian and Meatlovers were ordered by each customer?</li>
+<li>What was the maximum number of pizzas delivered in a single order?</li>
+<li>For each customer, how many delivered pizzas had at least 1 change and how many
+had no changes?</li>
+<li>How many pizzas were delivered that had both exclusions and extras?</li>
+<li>What was the total volume of pizzas ordered for each hour of the day?</li>
+<li>Wh/at was the volume of orders for each day of the week?</li>
+</ol>
+<p>Requirements</p>
+<ol>
+<li>Store the data In MY SQL table </li>
+<li>Using Sqoop Store the Data in Hive</li>
+<li>Using the PySpark the get the Results for the question</li>
+<li>Store the Results in Seperate Table</li>
+</ol>
+<img src="https://github.com/melwinmpk/PizzaOrders_DataPipeline/blob/main/img/DataPipelineFlow.png?raw=true"></img>
