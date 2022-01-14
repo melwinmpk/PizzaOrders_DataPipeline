@@ -4,7 +4,7 @@
 <p>Now he wants to know how is his business going on he needs some answers to his questions from the data. 
 but the data which is stored is not in an appropriate format.
 He Approaches a Data Engineer to process and store the data for him and get the answers to his question </p>
-<p>the data are stored in the different CSV files </p>
+<p><h3>The data are stored in the different CSV files </h3></p>
 <ul>
 <li>
     <b>customer_orders.csv</b><br>
@@ -33,7 +33,7 @@ He Approaches a Data Engineer to process and store the data for him and get the 
     Columns=> runner_id,registration_date<br>
 </li>
 </ul>    
-<p> The Answers the Tony wanted for </p>
+<p><h2> The Answers the Tony wanted for </h2></p>
 <ol>
 <li>How many pizzas were ordered?</li>
 <li>How many unique customer orders were made?</li>
@@ -47,11 +47,12 @@ had no changes?</li>
 <li>What was the total volume of pizzas ordered for each hour of the day?</li>
 <li>Wh/at was the volume of orders for each day of the week?</li>
 </ol>
-<p>Requirements</p>
+<p><h2>Requirements</h2></p>
 <ol>
 <li>Store the data In MY SQL table </li>
 <li>Using Sqoop Store the Data in Hive</li>
 <li>Using the PySpark the get the Results for the question</li>
 <li>Store the Results in Seperate Table</li>
+<li>Automate entire process in the Airflow</li>
 </ol>
 <img src="https://github.com/melwinmpk/PizzaOrders_DataPipeline/blob/main/img/DataPipelineFlow.png?raw=true"></img>
