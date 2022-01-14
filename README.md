@@ -56,3 +56,8 @@ had no changes?</li>
 <li>Automate entire process in the Airflow</li>
 </ol>
 <img src="https://github.com/melwinmpk/PizzaOrders_DataPipeline/blob/main/img/DataPipelineFlow.png?raw=true"></img>
+
+
+<h2>AirFlow Output</h2>
+<img src="https://github.com/melwinmpk/PizzaOrders_DataPipeline/blob/main/img/Airflow1.PNG?raw=true"></img>
+<img src="https://github.com/melwinmpk/PizzaOrders_DataPipeline/blob/main/img/Airflow2.PNG?raw=true"></img>
